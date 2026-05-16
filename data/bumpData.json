@@ -1,0 +1,26 @@
+{
+  "guilds": {
+    "1431718751400886344": {
+      "disboard": {
+        "lastBump": 1773823027480,
+        "reminderSent": true
+      },
+      "discadia": {
+        "lastBump": 1764628794661,
+        "reminderSent": true
+      }
+    },
+    "1290908274518003726": {
+      "disboard": {
+        "lastBump": 1778873510674,
+        "reminderSent": true,
+        "channelId": "1386658052890951882"
+      },
+      "discadia": {
+        "lastBump": 0,
+        "reminderSent": false,
+        "channelId": null
+      }
+    }
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "guilds": {
+    "1431718751400886344": {
+      "panels": {
+        "pronouns": {
+          "channelId": "1458180171080138893",
+          "messageId": "1458181838744059946",
+          "title": "Pronouns!",
+          "description": "Here you can select your desired Pronouns!",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "💙": {
+              "roleId": "1454524575395348775",
+              "emoji": "💙",
+              "description": null
+            },
+            "🩷": {
+              "roleId": "1454524696669327412",
+              "emoji": "🩷",
+              "description": null
+            },
+            "💚": {
+              "roleId": "1454525001373061201",
+              "emoji": "💚",
+              "description": null
+            },
+            "💛": {
+              "roleId": "1454525103516815635",
+              "emoji": "💛",
+              "description": null
+            },
+            "💜": {
+              "roleId": "1454525146550374664",
+              "emoji": "💜",
+              "description": null
+            }
+          }
+        },
+        "timezones": {
+          "channelId": "1458180171080138893",
+          "messageId": "1458187575419474122",
+          "title": "Timezones!",
+          "description": "Select your Timezones here!",
+          "color": 5793266,
+          "mode": "unique",
+          "roles": {
+            "1️⃣": {
+              "roleId": "1458191512964698325",
+              "emoji": "1️⃣",
+              "description": "🇺🇸  - Eastern US - UTC-5/-4"
+            },
+            "2️⃣": {
+              "roleId": "1458191615448449036",
+              "emoji": "2️⃣",
+              "description": "🇺🇸  - Central US - UTC-6/-5"
+            },
+            "3️⃣": {
+              "roleId": "1458191647903846685",
+              "emoji": "3️⃣",
+              "description": "🇺🇸 - Mountain US - UTC-7/-6"
+            },
+            "4️⃣": {
+              "roleId": "1458191732398096610",
+              "emoji": "4️⃣",
+              "description": "🇺🇸 - Pacific US - UTC-8/-7"
+            },
+            "5️⃣": {
+              "roleId": "1458191924883226705",
+              "emoji": "5️⃣",
+              "description": "🇬🇧 - UK -UTC+0/+1"
+            },
+            "6️⃣": {
+              "roleId": "1458191973633753140",
+              "emoji": "6️⃣",
+              "description": "🇪🇺 - Central Europe - UTC+1/+2"
+            },
+            "7️⃣": {
+              "roleId": "1458191985230872586",
+              "emoji": "7️⃣",
+              "description": "🇪🇺  - Eastern Europe - UTC+2/+3"
+            },
+            "8️⃣": {
+              "roleId": "1458191977479667764",
+              "emoji": "8️⃣",
+              "description": "🇮🇩  - Central Indonesia - UTC+8"
+            },
+            "9️⃣": {
+              "roleId": "1458192007053840446",
+              "emoji": "9️⃣",
+              "description": "🇳🇿 - New Zealand - UTC+12/+13"
+            }
+          }
+        },
+        "pings": {
+          "channelId": "1458180171080138893",
+          "messageId": "1458187892726829188",
+          "title": "Pings",
+          "description": "Here you can select what you want to be pinged for!",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "1️⃣": {
+              "roleId": "1458187033368334439",
+              "emoji": "1️⃣",
+              "description": "Get Pinged for Server changes (Roles, Channels, New Server features, etc...)"
+            },
+            "2️⃣": {
+              "roleId": "1458187203204219033",
+              "emoji": "2️⃣",
+              "description": "Get  Pinged for Events"
+            }
+          }
+        },
+        "gameRoles": {
+          "channelId": "1458180171080138893",
+          "messageId": "1461713505681150259",
+          "title": "Game Roles",
+          "description": "Here you can select games to unlock game-specific categories!",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🟨": {
+              "roleId": "1461713143674700050",
+              "emoji": "🟨",
+              "description": null
+            },
+            "🟩": {
+              "roleId": "1462522754476806358",
+              "emoji": "🟩",
+              "description": null
+            }
+          }
+        },
+        "permissionRoles": {
+          "channelId": "1458180171080138893",
+          "messageId": "1462542178973913355",
+          "title": "Permission Roles",
+          "description": "Here you can select roles for specific parts of the server",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "💥": {
+              "roleId": "1454231423975297034",
+              "emoji": "💥",
+              "description": "Access to the World News Channel"
+            }
+          }
+        }
+      }
+    },
+    "1290908274518003726": {
+      "panels": {
+        "species": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446691843067740341",
+          "title": "Species!",
+          "description": "Here you can select your Sonas species",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🦁": {
+              "roleId": "1379055734326820935",
+              "emoji": "🦁",
+              "description": "Big Cats"
+            },
+            "🦊": {
+              "roleId": "1379055322819334144",
+              "emoji": "🦊",
+              "description": "Foxes"
+            },
+            "🗣️": {
+              "roleId": "1379059207759724574",
+              "emoji": "🗣️",
+              "description": "Hyenas"
+            },
+            "🐺": {
+              "roleId": "1379055208570687650",
+              "emoji": "🐺",
+              "description": "General canines"
+            },
+            "🐦": {
+              "roleId": "1379055858884808736",
+              "emoji": "🐦",
+              "description": "Birds"
+            },
+            "🦝": {
+              "roleId": "1379143198831546448",
+              "emoji": "🦝",
+              "description": "Racoons, Ringtails, etc..."
+            },
+            "💻": {
+              "roleId": "1379876301959073842",
+              "emoji": "💻",
+              "description": "Beep Boops..."
+            },
+            "🐉": {
+              "roleId": "1384975017632338060",
+              "emoji": "🐉",
+              "description": "Dragons, duh"
+            },
+            "🦘": {
+              "roleId": "1385355596865339522",
+              "emoji": "🦘",
+              "description": "Possums, Kangaroos, Wallabies, etc"
+            },
+            "🐐": {
+              "roleId": "1397637234236325948",
+              "emoji": "🐐",
+              "description": "Antelopes, Sheep, Cattle, etc"
+            },
+            "🐻": {
+              "roleId": "1410256194781839442",
+              "emoji": "🐻",
+              "description": "All kinds of Bears"
+            },
+            "🦈": {
+              "roleId": "1411777754319556628",
+              "emoji": "🦈",
+              "description": "All kinds of Sharks"
+            },
+            "🪰": {
+              "roleId": "1411779049193476128",
+              "emoji": "🪰",
+              "description": "All kinds of Insects"
+            },
+            "🐊": {
+              "roleId": "1415499214196183061",
+              "emoji": "🐊",
+              "description": "All kinds of Crocodiles"
+            },
+            "🐱": {
+              "roleId": "1424386105469435989",
+              "emoji": "🐱",
+              "description": "Kitties!!!"
+            },
+            "🦨": {
+              "roleId": "1451578554570637352",
+              "emoji": "🦨",
+              "description": "Skunks; Stink badgers etc..."
+            }
+          }
+        },
+        "dmsOkay": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446920748470898780",
+          "title": "Direct Messages",
+          "description": "Is it okay for other people to DM you?",
+          "color": 5793266,
+          "mode": "unique",
+          "roles": {
+            "✅": {
+              "roleId": "1446921004235358354",
+              "emoji": "✅",
+              "description": "If your DMs are open"
+            },
+            "❓": {
+              "roleId": "1446921176348622948",
+              "emoji": "❓",
+              "description": "If you want people to ask beforehand"
+            },
+            "❌": {
+              "roleId": "1446921093368647760",
+              "emoji": "❌",
+              "description": "If your DMs are not open"
+            }
+          }
+        },
+        "sexualityGender": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446922348853723290",
+          "title": "Sexuality and Gender Representation",
+          "description": "Here you'l be able to select a role that represents your Sexuality / Gender",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "📏": {
+              "roleId": "1398825891433549897",
+              "emoji": "📏",
+              "description": null
+            },
+            "🏳️‍🌈": {
+              "roleId": "1379061371588837496",
+              "emoji": "🏳️‍🌈",
+              "description": null
+            },
+            "🏳️‍⚧️": {
+              "roleId": "1379061415725367367",
+              "emoji": "🏳️‍⚧️",
+              "description": null
+            },
+            "💖": {
+              "roleId": "1379061493982695510",
+              "emoji": "💖",
+              "description": null
+            },
+            "💙": {
+              "roleId": "1379061530284392468",
+              "emoji": "💙",
+              "description": null
+            },
+            "💛": {
+              "roleId": "1379061575847116902",
+              "emoji": "💛",
+              "description": null
+            },
+            "💚": {
+              "roleId": "1379061613897977928",
+              "emoji": "💚",
+              "description": null
+            },
+            "🧡": {
+              "roleId": "1379061663038439424",
+              "emoji": "🧡",
+              "description": null
+            },
+            "💫": {
+              "roleId": "1379061754788581396",
+              "emoji": "💫",
+              "description": null
+            }
+          }
+        },
+        "pronouns": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446923419324125204",
+          "title": "Pronouns",
+          "description": "Here you can select the fitting Pronouns",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "1️⃣": {
+              "roleId": "1379066401092010026",
+              "emoji": "1️⃣",
+              "description": null
+            },
+            "2️⃣": {
+              "roleId": "1379066443882172416",
+              "emoji": "2️⃣",
+              "description": null
+            },
+            "3️⃣": {
+              "roleId": "1379066493295398944",
+              "emoji": "3️⃣",
+              "description": null
+            },
+            "4️⃣": {
+              "roleId": "1379066581640020020",
+              "emoji": "4️⃣",
+              "description": null
+            },
+            "5️⃣": {
+              "roleId": "1379066631744917594",
+              "emoji": "5️⃣",
+              "description": null
+            }
+          }
+        },
+        "personality": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446925054792433844",
+          "title": "Personality Roles",
+          "description": "Here are some personality roles you can pick how ever you see fit",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🧃": {
+              "roleId": "1379070703621374085",
+              "emoji": "🧃",
+              "description": "Chaos gremlin , probably eating snacks at 3AM"
+            },
+            "🧠": {
+              "roleId": "1379070641650798734",
+              "emoji": "🧠",
+              "description": "You turn out to be a professional philosopher at times"
+            },
+            "😴": {
+              "roleId": "1379070589305618544",
+              "emoji": "😴",
+              "description": "You don't talk much but you sure are watching 👀"
+            },
+            "😎": {
+              "roleId": "1379071100939669535",
+              "emoji": "😎",
+              "description": "Loud, chaotic , living their best life"
+            },
+            "🎨": {
+              "roleId": "1379071240127381577",
+              "emoji": "🎨",
+              "description": "You have Bursts of random creative energy"
+            },
+            "🖌️": {
+              "roleId": "1379070476508201020",
+              "emoji": "🖌️",
+              "description": "I think the Paintbrush gives it away, your an Artist !"
+            }
+          }
+        },
+        "disorders": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446926060447862907",
+          "title": "Mental Health",
+          "description": "Here some roles for people who might suffer from the listed disorders. Please be Patient with people who chose any of these roles!! <3 (if there are any missing, let the staff know)",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🟣": {
+              "roleId": "1388168481995882757",
+              "emoji": "🟣",
+              "description": null
+            },
+            "🩷": {
+              "roleId": "1388168398483230740",
+              "emoji": "🩷",
+              "description": null
+            },
+            "💜": {
+              "roleId": "1423478545119707206",
+              "emoji": "💜",
+              "description": null
+            },
+            "🧡": {
+              "roleId": "1426325814961639535",
+              "emoji": "🧡",
+              "description": null
+            },
+            "💛": {
+              "roleId": "1442333702901202985",
+              "emoji": "💛",
+              "description": null
+            },
+            "🩶": {
+              "roleId": "1446924133110775809",
+              "emoji": "🩶",
+              "description": null
+            },
+            "🤎": {
+              "roleId": "1459720053401583729",
+              "emoji": "🤎",
+              "description": null
+            }
+          }
+        },
+        "pings": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446926726260064357",
+          "title": "Pings",
+          "description": "Here are roles for certain pings in the server",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🟡": {
+              "roleId": "1388483445470265456",
+              "emoji": "🟡",
+              "description": null
+            },
+            "🟢": {
+              "roleId": "1402690121555509279",
+              "emoji": "🟢",
+              "description": null
+            },
+            "🔴": {
+              "roleId": "1402689967175761971",
+              "emoji": "🔴",
+              "description": null
+            },
+            "🟠": {
+              "roleId": "1438489190080843819",
+              "emoji": "🟠",
+              "description": null
+            },
+            "🟤": {
+              "roleId": "1445506047992397944",
+              "emoji": "🟤",
+              "description": null
+            },
+            "🟩": {
+              "roleId": "1460711077775016159",
+              "emoji": "🟩",
+              "description": null
+            },
+            "💸": {
+              "roleId": "1461411456003211385",
+              "emoji": "💸",
+              "description": null
+            }
+          }
+        },
+        "continents": {
+          "channelId": "1446691136671318066",
+          "messageId": "1446927380026232945",
+          "title": "Continents",
+          "description": "Here you can select a role to let others know which part of our world you're from!",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "1️⃣": {
+              "roleId": "1426226115302920394",
+              "emoji": "1️⃣",
+              "description": null
+            },
+            "2️⃣": {
+              "roleId": "1426226225256595661",
+              "emoji": "2️⃣",
+              "description": null
+            },
+            "3️⃣": {
+              "roleId": "1426226281283981364",
+              "emoji": "3️⃣",
+              "description": null
+            },
+            "4️⃣": {
+              "roleId": "1426226379904516126",
+              "emoji": "4️⃣",
+              "description": null
+            },
+            "5️⃣": {
+              "roleId": "1426226375596965958",
+              "emoji": "5️⃣",
+              "description": null
+            },
+            "6️⃣": {
+              "roleId": "1426226487153004736",
+              "emoji": "6️⃣",
+              "description": null
+            }
+          }
+        },
+        "Collour Roles": {
+          "channelId": "1446691136671318066",
+          "messageId": "1452100858400473109",
+          "title": "Collour Roles",
+          "description": "Here youl be able to pick a custom collour for your username !",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "🔴": {
+              "roleId": "1452099276716118180",
+              "emoji": "🔴",
+              "description": null
+            },
+            "🟠": {
+              "roleId": "1452099596968001769",
+              "emoji": "🟠",
+              "description": null
+            },
+            "🩷": {
+              "roleId": "1452099221334396949",
+              "emoji": "🩷",
+              "description": null
+            },
+            "🟣": {
+              "roleId": "1452099088383479939",
+              "emoji": "🟣",
+              "description": null
+            },
+            "🩵": {
+              "roleId": "1453536406956675164",
+              "emoji": "🩵",
+              "description": null
+            },
+            "🫐": {
+              "roleId": "1453536268595236958",
+              "emoji": "🫐",
+              "description": null
+            }
+          }
+        },
+        "Venting": {
+          "channelId": "1446691136671318066",
+          "messageId": "1465098886799429749",
+          "title": "Dedicated thread access",
+          "description": "these will have roles which allow you access to dedicated roles",
+          "color": 5793266,
+          "mode": "normal",
+          "roles": {
+            "❤️": {
+              "roleId": "1465098263010213918",
+              "emoji": "❤️",
+              "description": null
+            },
+            "🇦🇶": {
+              "roleId": "1480926561233404024",
+              "emoji": "🇦🇶",
+              "description": null
+            }
+          }
+        }
+      }
+    }
+  }
+}

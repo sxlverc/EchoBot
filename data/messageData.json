@@ -1,0 +1,110 @@
+{
+  "messages": {
+    "reactionRoleMessage": {
+      "channelId": "1458180171080138893",
+      "messageId": "1458181219119403169",
+      "title": "Reaction Roles!!",
+      "header": "The reaction roles are of course optional, if you find your  Pronouns, Timezone or anything else are NOT listed please message or ping one of the owners!",
+      "footer": "",
+      "color": 9713346,
+      "items": []
+    },
+    "rulesAndGuidelines": {
+      "channelId": "1376683850427797534",
+      "messageId": "1446941847716102154",
+      "title": "Floof Squad Community Rules and Guidelines",
+      "header": "Thank you for your patience and listening to our rules, if you have any suggestions or feel something is missing, dont hesitate to bring it up with any avaliable member of staff!",
+      "footer": "Last updated: 18.03.2026 (dd.MM.yyyy)",
+      "color": 5793266,
+      "timestamp": false,
+      "items": [
+        {
+          "title": "Respect each other",
+          "description": "No harassment, hate or discrimination:\nAny racism, sexism, disrespect, or any of that stuff toward anyone, regardless of if they are a member of staff or another member is prohibited and disallowed. There is space for jokes and a bit of banter, but when someone tells you to stop, you stop.\n  \nKeep debates respectful:\nDisagreement with someone's point of view, opinion, or take on a certain topic is fine; being hostile or combative about it isn't.\nLet a member of staff know if you arent comfortable with what a user has said.\n\nRespect staff decisions:\nIf you are questioning staff decisions or actions, please, let us know. Whether you bring it up publicly or privately, your opinion matters, but keep it respectful;\nPublic arguments aren't helpful, if it's a serious matter, bring it up privately. ^^",
+          "emoji": null
+        },
+        {
+          "title": "Don't be disruptive",
+          "description": "No spamming or flooding chats:\nAvoid excessive pinging, sending repeated messages in quick succession, sending massive texts in one message, and sending abusive copypastas.\n\nTry to stay on topic in each channel:\nRead the channel descriptions - keep conversations in their dedicated thread so they can live in a place where they belong.\n\nNo trolling or ragebaiting:\nTrying to stir up drama or get a rise out of others, staff member or not, for any reason will be met with appropriate punishment.\nLet's keep it respectful here.",
+          "emoji": null
+        },
+        {
+          "title": "Keep the server safe and appropriate.",
+          "description": "No NSFW content:\nThis server includes both minors, and adults, so it is common sense that any NSFW content of any form is prohibited. This includes explicit jokes, media or overly suggestive usernames.\n\nNo unsolicited ads or self-promo:\nDon't drop links or promos to any other discord server outside of DMs. Unless there is a thread where said content is allowed to be posted, leave it out of our server.\n\nFollow Discord's Terms of Services and community guidelines:\nNo underage accounts , illegal activity, or ban-dodging.\nDiscord TOS: https://discord.com/terms\nDiscord Community guidelines: https://discord.com/guidelines/",
+          "emoji": null
+        },
+        {
+          "title": "Sexual content",
+          "description": "Avoid sharing sexual jokes, stories, or innuendos regardless of how old you both are. Save that for the DMs.\n\nKeep discussions appropriate for a general audience and age range.\n\nRespect others' comfort levels at all times, when someone isnt comfortable with what you are saying, you drop the subject immediately, regardless of if you are a member of staff or not.",
+          "emoji": null
+        },
+        {
+          "title": "Use common sense and proper judgement.",
+          "description": "Use respectful nicknames:\nNicknames referencing content that is not permitted on this server is prohibited, no room for discussion, how you present yourself is important, as if you have an overly racist display name, and you proceed to get offended when youre labelled as racist, or are warned/punished for ignoring this rule, thats your own fault. There is no excuse.\n\nKeep avatars and bios appropriate:\nNo graphic or offensive content in visible profile elements. Same reasoning as the rule above.",
+          "emoji": null
+        },
+        {
+          "title": "Have fun, be a good crew member!",
+          "description": "Welcome new members:\nGreet them, help them get settled, and invite them to join in, and treat them as if you would expect to be treated when you first join a server like our own.\n\nBe playful, not harmful:\nJokes and teasing are fine, just don't cross the line. While we have rules prohibiting certain jokes, these are only really punishable if you go too far.\nDark humour and the likes are allowed as long as they remain jokes that everyone finds funny. The second people start to express discomfort at jokes like this is where it stops, no questions asked, respect people's comfortability.",
+          "emoji": null
+        },
+        {
+          "title": "Public venting",
+          "description": "Public Venting:\nTo keep this space safe and comfy for everyone public venting is not allowed, and is advised to be either be left exclusively in its dedicated thread, or outside the server with someone you trust.\n\nIf you desperately need help consider Talking to close friends or people you trust in your DM's, family or friendgroup. You are not alone, and if needs be, the staff are always happy to listen to you and provide some much needed solace.",
+          "emoji": null
+        },
+        {
+          "title": "Politics",
+          "description": "If political topics must be discussed, since trigger warnings do basically nothing, please at least put it in the dedicated\n#political-talk thread, which only people with a dedicated role will have access to. This is said as some people may find politics uncomfortable, and may not want to hear about it. Political talk is okay as long as it stays respectful, in line with our rules, and doesnt offend anyone.",
+          "emoji": null
+        },
+        {
+          "title": "Addictive substances",
+          "description": "If substances like Alcohol / Marijuana etc ... are mentioned we advise  you to put TW (Trigger Warning) Infront of the message so people who have had bad experiences with these substances dont have to be confronted with this topic directly, and so, they dont have to read messages like this if they dont want to.",
+          "emoji": null
+        },
+        {
+          "title": "Venting",
+          "description": "This is a difficult subject for me to explain.\nWe have a rule that states public venting should be taken elsewhere, however, a channel now exists. A specific role has been added that gives people with that role and ***ONLY*** people with that role access to the thread. ***ANY*** abuse of that thread ***WILL*** be punished. It is intened as a place for people to vent and let go of any emotions that are troubling them.\nAbuse includes bullying, shitposting, judging or anything else that is not either an attempt at giving support or your own venting. The staff will have access to the thread, as such, offending staff will also be punished for breaking this rule.",
+          "emoji": null
+        }
+      ]
+    },
+    "Penalties, consequences and punishments": {
+      "channelId": "1376683850427797534",
+      "messageId": "1479193019537428573",
+      "title": "Listed rules and their attatched punishments",
+      "header": "This is a list of the punishments that can be handed out if you break the rules of the server.",
+      "footer": "Last updated: 05.03.2026 (dd.MM.yyyy)",
+      "color": 5793266,
+      "timestamp": false,
+      "items": [
+        {
+          "title": "Punishments:",
+          "description": "Breaking the rules can result in the following, depending on the severity:\n\nBasic rulebreak:\n1st offence: Being warned\n2nd or 3rd offence: Verbal warning from a staff member\n\nDeliberate disregard for rules:\nIf warnings are not enough, you may be timed out.\n4th offence: 30 minute timeout\n5th offence: 1 hour timeout\n6th offence: 24 hour timeout\n\nFinal chance:\n7th offence: If being timed out didnt teach you a lesson, you may be kicked from the server with the opportunity to reapply.\n\nNuclear option.\n8th offence: If kicking you hasnt taught you that maybe what you're doing needs to stop, you may face a total ban from the server, no questions asked. You had your chances.\n\nNote no one is exempt from punishment. Anyone who is caught breaking our community rules can be punished, meaning even staff members are not excused.\nThese punishments are flexible, and can and will be handed out out of order depending on how severely you are breaking the rules.",
+          "emoji": null
+        }
+      ]
+    },
+    "Jona BullshitHorseFocker": {
+      "channelId": "1376683850427797534",
+      "messageId": "1483929044415283211",
+      "title": "Extra rules",
+      "header": "This will be updated with extra rules that we failed to mention periodically.",
+      "footer": "",
+      "color": 5793266,
+      "items": [
+        {
+          "title": "Regarding the Booze/Birb/Jona situation.",
+          "description": "***Note this applies to everyone, especially those who were affected by Jona directly, such as myself***\n\nFormer server owner (who i will refer to as Birb for simplicity) is an outcast and is not allowed here again. \nHe was, for lack of a friendly way to put it, a cunt to his staff and people in this server.\nHe was also outed to be a zoophile (put simply is an individual with sexual/romantic desires toward animals), as proven by his inability to private his e621 favourites, alongside more evidence to back this up, also with the tag 'rape' appearing several times.\nAs such, we will no longer tolerate any support for him or what he has done. \nIf you choose to keep on good terms with him, fair enough, thats your choice, i'm not your dad, i cant stop you, but keep support to yourself.\nWe do, however, encourage people to clown on him and take the piss out of him with us, so long as the jokes stay in line, and the topic of zoophilia doesnt persist, as it makes some people sick.\n***- credit to Pluto for helping***",
+          "emoji": null
+        },
+        {
+          "title": "Regarding challenging staff decisions.",
+          "description": "Any decisions made by staff are always open for disagreement or debate.\nIf you or someone else have recieved a punishment that you feel was unworthy or unfair, feel free to challenge the staff member who made the decision.\nNote other staff are permitted to join these debates.\nIf this is necessary, keep it respectful.\nThe second it becomes toxic, the second the argument becomes void and you are punished for turning a friendly debate hostile. \nWe are not slaves nor punching bags.\nWe are here to keep your community safe and friendly, please show some respect. \nDisrespect toward the owner or any of her staff will not be tolerated if it becomes actively hostile.\nThis is not to say you cannot be upset by action taken, just be respectful with it.",
+          "emoji": null
+        }
+      ]
+    }
+  }
+}

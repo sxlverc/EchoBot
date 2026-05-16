@@ -1,0 +1,64 @@
+{
+  "joinToCreateChannels": [
+    "1379042036904231024",
+    "1431718752587743355"
+  ],
+  "tempChannels": [
+    "1504932844101832902"
+  ],
+  "userChannels": {
+    "1504932844101832902": "614874672676339772"
+  },
+  "userPreferences": {
+    "733693570300641350": {
+      "channelName": "Do what you want 'cause a pirate is free. You are a pirate!"
+    },
+    "614874672676339772": {
+      "channelName": "dyslexia detector",
+      "userLimit": 0
+    },
+    "1103458084891934740": {
+      "channelName": "doom killing me"
+    },
+    "538307529743007744": {
+      "channelName": "Warmup before losing everything"
+    },
+    "656558176744898590": {
+      "channelName": "Hyena Den",
+      "userLimit": 0
+    },
+    "1286004507385528366": {
+      "channelName": "Trying to play shit without a mouse",
+      "userLimit": 4
+    },
+    "842450799878864946": {
+      "channelName": "syrup tub"
+    },
+    "1324763970271314023": {
+      "channelName": "Yap Central"
+    },
+    "1344738900979220490": {
+      "channelName": "Escape"
+    },
+    "1381361217301381191": {
+      "channelName": "Chill corner"
+    },
+    "488054796952010753": {
+      "channelName": "sophia's guitar time"
+    },
+    "297838087852130305": {
+      "channelName": "Autism"
+    },
+    "378666821659656224": {
+      "channelName": "schwuchtel 1 schwuchtel 2 schwuchtel 3 schwuchtel 4 schwuchtel 5 schwuchtel 6 schwuchtel 7 schwuch 8"
+    },
+    "378206098068602880": {
+      "channelName": "lean drinking room",
+      "userLimit": 0
+    },
+    "436424636612214797": {
+      "userLimit": 3
+    }
+  },
+  "pingedUsers": {}
+}

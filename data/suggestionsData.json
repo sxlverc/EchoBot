@@ -1,0 +1,435 @@
+{
+  "guilds": {
+    "1290908274518003726": {
+      "suggestions": {
+        "1438555449354879117": {
+          "id": 1,
+          "author": "436988899517136906",
+          "suggestion": "Poll making permissions in media chat and perhaps general such that we may shitpost",
+          "votes": {
+            "upvotes": [
+              "436988899517136906",
+              "656558176744898590",
+              "1217140256957137009",
+              "1412212555258134539"
+            ],
+            "downvotes": [
+              "733693570300641350",
+              "614874672676339772",
+              "914916160041005096",
+              "1324763970271314023",
+              "762396028287582248"
+            ]
+          },
+          "status": "closed",
+          "channelId": "1388128201619800215",
+          "timer": {
+            "endTime": 1763135146752,
+            "minutes": 1440,
+            "isDefault": true
+          },
+          "guildId": "1290908274518003726"
+        },
+        "1439816483319451772": {
+          "id": 2,
+          "author": "436988899517136906",
+          "suggestion": "make embed permissions colorless so you can see rank color below it",
+          "votes": {
+            "upvotes": [
+              "436988899517136906",
+              "842450799878864946",
+              "1324763970271314023",
+              "762396028287582248",
+              "581462883830071296",
+              "614874672676339772",
+              "914916160041005096"
+            ],
+            "downvotes": []
+          },
+          "status": "closed",
+          "channelId": "1388128201619800215",
+          "timer": {
+            "endTime": 1763435800611,
+            "minutes": 1440,
+            "isDefault": true
+          },
+          "guildId": "1290908274518003726"
+        },
+        "1440628197757812810": {
+          "id": 3,
+          "author": "914916160041005096",
+          "suggestion": "A dedicated pet channel so i can (not) post videos of my kitten rolling around on the floor",
+          "votes": {
+            "upvotes": [
+              "614874672676339772",
+              "768011131137949717",
+              "842450799878864946",
+              "1261743322133827616",
+              "538307529743007744",
+              "459429549906591754",
+              "641326555833827377",
+              "656558176744898590",
+              "497500727795777536",
+              "581462883830071296",
+              "1324763970271314023",
+              "777235877369872434"
+            ],
+            "downvotes": []
+          },
+          "status": "closed",
+          "channelId": "1388128201619800215",
+          "timer": {
+            "endTime": 1763629328440,
+            "minutes": 1440,
+            "isDefault": true
+          },
+          "guildId": "1290908274518003726"
+        },
+        "1441127138882490459": {
+          "id": 4,
+          "author": "656558176744898590",
+          "suggestion": "Make a vc ping role that pings members who have selected that role as soon as a new vc is created",
+          "votes": {
+            "upvotes": [
+              "1261743322133827616",
+              "656558176744898590",
+              "1324763970271314023",
+              "1344738900979220490",
+              "709841252350296104",
+              "777235877369872434",
+              "914916160041005096",
+              "762396028287582248",
+              "411940113459707904"
+            ],
+            "downvotes": [
+              "614874672676339772",
+              "733693570300641350",
+              "842450799878864946",
+              "581462883830071296",
+              "679384159071895552"
+            ]
+          },
+          "status": "closed",
+          "channelId": "1388128201619800215",
+          "timer": {
+            "endTime": 1763748285232,
+            "minutes": 1440,
+            "isDefault": true
+          },
+          "guildId": "1290908274518003726"
+        },
+        "1445237531565363241": {
+          "id": 5,
+          "author": "495692339776585761",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "Dreemyns Bug corner? Where we can talk about exclusively bugs and I can post my bug updates in the future..??",
+          "votes": {
+            "upvotes": [
+              "495692339776585761",
+              "497500727795777536"
+            ],
+            "downvotes": [
+              "733693570300641350",
+              "679384159071895552",
+              "614874672676339772",
+              "656558176744898590",
+              "842450799878864946",
+              "581462883830071296",
+              "762396028287582248"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1764728279072,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1445920412927131811": {
+          "id": 6,
+          "author": "733693570300641350",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "A channel for Playing Bot games since i am adding a lot of games and stuff to <@1418650659695104082>",
+          "votes": {
+            "upvotes": [
+              "614874672676339772",
+              "656558176744898590",
+              "842450799878864946",
+              "1324763970271314023",
+              "1344738900979220490",
+              "641326555833827377",
+              "684458902099853366",
+              "1103458084891934740"
+            ],
+            "downvotes": [
+              "581462883830071296",
+              "709841252350296104",
+              "495692339776585761"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1764891090746,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1447542530425229383": {
+          "id": 7,
+          "author": "436424636612214797",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "change the australia region role to oceania, still covers australia and more (cough cough nz)",
+          "votes": {
+            "upvotes": [
+              "436424636612214797",
+              "842450799878864946",
+              "614874672676339772",
+              "733693570300641350",
+              "1324763970271314023",
+              "1217140256957137009",
+              "762396028287582248"
+            ],
+            "downvotes": []
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1765277833595,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1447572657317875752": {
+          "id": 8,
+          "author": "1217140256957137009",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "color roles, I NEED my name to match my pfp or I'll TWEAK!!!!!  /hj",
+          "votes": {
+            "upvotes": [
+              "1217140256957137009",
+              "614874672676339772",
+              "842450799878864946",
+              "679384159071895552",
+              "762396028287582248",
+              "436424636612214797",
+              "1344738900979220490",
+              "495692339776585761"
+            ],
+            "downvotes": []
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1765285016505,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1447758841679839242": {
+          "id": 9,
+          "author": "436988899517136906",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "ragebait silver",
+          "votes": {
+            "upvotes": [
+              "436988899517136906",
+              "1103458084891934740",
+              "495692339776585761",
+              "641326555833827377"
+            ],
+            "downvotes": [
+              "733693570300641350",
+              "684458902099853366",
+              "614874672676339772",
+              "1324763970271314023"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1765329406473,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1451554063950020730": {
+          "id": 10,
+          "author": "614874672676339772",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "include addictive substances such as alc and weed in rules under explicit content? Or at least put some trigger for those messages since there's still some minors and people that in general are against it/got their life fucked up by it :>",
+          "votes": {
+            "upvotes": [
+              "614874672676339772",
+              "538307529743007744",
+              "684458902099853366",
+              "1386362558012981399",
+              "941055672357879868",
+              "733693570300641350",
+              "1103458084891934740",
+              "436424636612214797"
+            ],
+            "downvotes": [
+              "641326555833827377",
+              "842450799878864946",
+              "1324763970271314023",
+              "656558176744898590",
+              "581462883830071296",
+              "495692339776585761"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1766234257931,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1451935034813714452": {
+          "id": 11,
+          "author": "497500727795777536",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "a gaming channel for us to post like gaming videos or just chat about games specifically",
+          "votes": {
+            "upvotes": [
+              "614874672676339772",
+              "656558176744898590",
+              "641326555833827377",
+              "1103458084891934740",
+              "842450799878864946",
+              "684458902099853366",
+              "1324763970271314023",
+              "495692339776585761",
+              "1050449660612984852",
+              "581462883830071296",
+              "711817301531295764",
+              "762396028287582248"
+            ],
+            "downvotes": []
+          },
+          "status": "under_review",
+          "timer": {
+            "endTime": 1766325088402,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1453162511112208582": {
+          "id": 12,
+          "author": "436988899517136906",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "a feature for our beloved yeen bot where you ask it who's stinky and it picks a random person and calls them stinky or something like that (preferably out of the last few people to send a message in chat so a random person doesn't catch a stray)",
+          "votes": {
+            "upvotes": [
+              "436988899517136906",
+              "1103458084891934740",
+              "842450799878864946",
+              "1324763970271314023",
+              "656558176744898590",
+              "641326555833827377",
+              "711817301531295764",
+              "1050449660612984852",
+              "495692339776585761",
+              "794293042617778197"
+            ],
+            "downvotes": [
+              "581462883830071296",
+              "733693570300641350",
+              "941055672357879868",
+              "767518515157925940",
+              "679384159071895552"
+            ]
+          },
+          "status": "under_review",
+          "timer": {
+            "endTime": 1766617741987,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1453539610146902036": {
+          "id": 13,
+          "author": "1391303349789392906",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "color sheep bot. U can randomize a color or give it a hex code for the exact color you want",
+          "votes": {
+            "upvotes": [
+              "711817301531295764",
+              "1050449660612984852"
+            ],
+            "downvotes": [
+              "842450799878864946",
+              "581462883830071296",
+              "767518515157925940"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1766707648937,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1462617198857158676": {
+          "id": 14,
+          "author": "842450799878864946",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "rename roles to revolve more around the new mascot/name/theme instead of the previous pirate theme",
+          "votes": {
+            "upvotes": [
+              "842450799878864946",
+              "711817301531295764",
+              "914916160041005096",
+              "641326555833827377",
+              "1103458084891934740",
+              "762396028287582248",
+              "1050449660612984852"
+            ],
+            "downvotes": []
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1768871914651,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        },
+        "1464318641498493031": {
+          "id": 15,
+          "author": "1050449660612984852",
+          "guildId": "1290908274518003726",
+          "channelId": "1388128201619800215",
+          "suggestion": "make a rant/vent channel especially for ppl not handling specific subjects well",
+          "votes": {
+            "upvotes": [
+              "711817301531295764",
+              "1050449660612984852",
+              "1103458084891934740",
+              "914916160041005096"
+            ],
+            "downvotes": [
+              "842450799878864946",
+              "684458902099853366",
+              "538307529743007744"
+            ]
+          },
+          "status": "closed",
+          "timer": {
+            "endTime": 1769277570373,
+            "minutes": 1440,
+            "isDefault": true
+          }
+        }
+      },
+      "suggestionCounter": 15,
+      "activeTimers": {},
+      "freedIds": []
+    }
+  }
+}

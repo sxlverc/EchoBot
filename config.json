@@ -1,0 +1,153 @@
+{
+  "1290908274518003726": {
+    "channels": {
+      "greeting": "1379020648424149042",
+      "birthday": "1290908274518003729",
+      "levelUp": "1379930275705786450",
+      "bump": "1386658052890951882",
+      "vcLogs": "1441534426784862399",
+      "serverLogs": "1398278885241524315",
+      "roleLogs": "1398278884465578114",
+      "messageLogs": "1398278886357209139",
+      "quotes": "1441811660745736253"
+    },
+    "roles": {
+      "birthday": "1388483457675559042",
+      "newcomer": "1379022478533464094",
+      "suggestions": "1438489190080843819",
+      "vcPing": "1445506047992397944",
+      "privilegedExecutors": [
+        "1379021988500340909",
+        "1435602540308725782"
+      ],
+      "levels": {
+        "2": "1381054007769960618",
+        "5": "1380176480171982878",
+        "8": "1380176795894288514",
+        "12": "1380177000999686226",
+        "16": "1380177194277670972",
+        "20": "1380177334384066676",
+        "25": "1380177500696608921",
+        "30": "1380177706347663410",
+        "35": "1380177821816717482",
+        "40": "1380177910492565614",
+        "45": "1380178074578059375",
+        "50": "1379022408043724821"
+      }
+    },
+    "features": {
+      "presence": {
+        "onlineStatus": "online",
+        "rotateMinutes": 5,
+        "activities": [
+          {
+            "type": "custom",
+            "state": "running on {line_count} lines of code"
+          },
+          {
+            "type": "custom",
+            "state": "🐾 guiding The Floof Squad"
+          },
+          {
+            "type": "watching",
+            "name": "over The Floof Squad"
+          },
+          {
+            "type": "playing",
+            "name": "floofy adventures"
+          },
+          {
+            "type": "watching",
+            "name": "chat vibes"
+          },
+          {
+            "type": "listening",
+            "name": "your paw requests"
+          }
+        ]
+      },
+      "xp": {
+        "enabled": true,
+        "messageXP": 10,
+        "voiceXPPerMinute": 5,
+        "xpPerLevel": 100,
+        "messageCooldown": 10000,
+        "excludedChannels": [
+          "1391009489330896967"
+        ],
+        "gameXP": {
+          "tictactoe": {
+            "win": 50,
+            "tie": 25
+          },
+          "connect4": {
+            "win": 75,
+            "tie": 35
+          },
+          "battleship": {
+            "win": 250,
+            "tie": 125
+          }
+        }
+      },
+      "welcome": {
+        "enabled": true,
+        "gifUrl": "https://cdn.discordapp.com/attachments/1020396623785898076/1484942412597039335/cat-meme-wave-emoji1.gif?ex=69c00fe4&is=69bebe64&hm=a9ce17551a2f80f746c5eeff5e61594dc711d89c60b9f19bc0c7437304c89ee2&"
+      },
+      "linkFixer": {
+        "enabled": true,
+        "suppressEmbeds": true
+      },
+      "voicemaster": {
+        "enabled": true,
+        "joinToCreateChannel": "1379042036904231024"
+      },
+      "birthdays": {
+        "enabled": true
+      },
+      "bumpReminder": {
+        "enabled": true,
+        "disboard": true,
+        "discadia": true
+      },
+      "suggestions": {
+        "requireRecentActivity": false,
+        "activityDays": 14
+      },
+      "serverLogger": {
+        "enabled": true,
+        "logChannelEvents": true,
+        "logRoleEvents": true,
+        "logImageEdits": true,
+        "logMessageEvents": true,
+        "logMemberEvents": true,
+        "logModerationEvents": true,
+        "logEmojiEvents": true,
+        "logVoiceEvents": true,
+        "ignoreBots": true
+      }
+    },
+    "users": {
+      "tellLogUserId": "914916160041005096"
+    }
+  },
+  "levelRoles": {
+    "1": "1379022478533464094",
+    "2": "1381054007769960618",
+    "9": "1380176480171982878",
+    "15": "1380176795894288514",
+    "20": "1380177000999686226",
+    "25": "1380177194277670972",
+    "30": "1380177334384066676",
+    "35": "1380177500696608921",
+    "45": "1380177706347663410",
+    "50": "1380177821816717482",
+    "60": "1380177910492565614",
+    "70": "1380178074578059375",
+    "80": "1379022408043724821",
+    "90": "1380177821816717482",
+    "100": "1380177910492565614",
+    "110": "1380178074578059375",
+    "120": "1379022408043724821"
+  }
+}

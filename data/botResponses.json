@@ -1,0 +1,512 @@
+{
+  "guilds": {
+    "1431718751400886344": {
+      "blankPingResponses": [
+        "what",
+        "yes?",
+        "hm?",
+        "you called?",
+        "what do you want",
+        "yeah?",
+        "Fuck off ask chat gpt",
+        "https://media.discordapp.net/attachments/1054217153601085580/1171926578658291753/89rn6jhlqlv.gif?ex=6916f86d&is=6915a6ed&hm=450faaef69ce7f1243ffd6777642562ec6f7e62be117bd23751755838993bce0&"
+      ],
+      "replyPatterns": [
+        {
+          "triggers": [
+            "i love you",
+            "love you",
+            "ily",
+            "i luv you",
+            "luv you",
+            "i love you faggot"
+          ],
+          "responses": [
+            "i love you too",
+            "love you too",
+            "aww i love you too"
+          ]
+        },
+        {
+          "triggers": [
+            "stinky",
+            "smelly",
+            "you stink"
+          ],
+          "responses": [
+            "no youre stinky",
+            "no u",
+            "youre stinkier",
+            "takes one to know one"
+          ]
+        },
+        {
+          "triggers": [
+            "stupid",
+            "dumb",
+            "idiot"
+          ],
+          "responses": [
+            "no u",
+            "youre the stupid one",
+            "takes one to know one",
+            "no youre dumb"
+          ]
+        },
+        {
+          "triggers": [
+            "cute",
+            "adorable",
+            "precious"
+          ],
+          "responses": [
+            "no youre cute",
+            "aww thanks youre cute too",
+            "youre cuter"
+          ]
+        },
+        {
+          "triggers": [
+            "cool",
+            "awesome",
+            "amazing",
+            "great"
+          ],
+          "responses": [
+            "thanks youre cool too",
+            "no youre awesome",
+            "youre amazing"
+          ]
+        },
+        {
+          "triggers": [
+            "thank you",
+            "thanks",
+            "ty",
+            "thx"
+          ],
+          "responses": [
+            "youre welcome",
+            "no problem",
+            "anytime",
+            "happy to help"
+          ]
+        },
+        {
+          "triggers": [
+            "good bot",
+            "best bot"
+          ],
+          "responses": [
+            "thank you",
+            "youre too kind",
+            "aww thanks",
+            "youre the best"
+          ]
+        },
+        {
+          "triggers": [
+            "bad bot",
+            "worst bot"
+          ],
+          "responses": [
+            "sorry",
+            "ill try better",
+            "im doing my best",
+            "rude"
+          ]
+        },
+        {
+          "triggers": [
+            "hate you",
+            "i hate you"
+          ],
+          "responses": [
+            "oh",
+            "sorry",
+            "thats mean",
+            "i still love you"
+          ]
+        },
+        {
+          "triggers": [
+            "ugly"
+          ],
+          "responses": [
+            "no youre ugly",
+            "rude",
+            "takes one to know one"
+          ]
+        },
+        {
+          "triggers": [
+            "pretty",
+            "beautiful",
+            "handsome"
+          ],
+          "responses": [
+            "no youre pretty",
+            "aww thank you",
+            "youre prettier"
+          ]
+        },
+        {
+          "triggers": [
+            "jones"
+          ],
+          "responses": [
+            "hi jones"
+          ]
+        },
+        {
+          "triggers": [
+            "kaboom?",
+            "kaboom"
+          ],
+          "responses": [
+            "yes {username}, kaboom",
+            "i hope you explode"
+          ]
+        },
+        {
+          "triggers": [
+            "clanker"
+          ],
+          "responses": [
+            "im totally not a clanker"
+          ]
+        },
+        {
+          "triggers": [
+            "fuck you",
+            "fuck u",
+            "screw you"
+          ],
+          "responses": [
+            "no fuck you",
+            "fuck you too",
+            "rude",
+            "love you too",
+            "no u",
+            "thats not very nice"
+          ]
+        },
+        {
+          "triggers": [
+            "kill"
+          ],
+          "responses": [
+            "https://tenor.com/view/kill-steve-harvey-family-feud-yes-kill-gif-22934983",
+            "https://preview.redd.it/4t8j0xiuama61.jpg?width=640&crop=smart&auto=webp&s=1561d473a0796bac69677cd24cc6b387270b57e9",
+            "https://cdn.discordapp.com/attachments/1290908274518003729/1445841709412909299/KILLLLL_20251203131816.png?ex=6931d085&is=69307f05&hm=01c3e3a98a14bca3414f3ebf7bd12d142824ecca8ee1966c6516fa54a4ff545d&",
+            "https://cdn.discordapp.com/attachments/1398278885241524315/1445544203554652161/3ec4672a1c89a5c712584e51931ca5b1.png?ex=6930bb73&is=692f69f3&hm=a4ba84421fe56d702cbb6ee562925e1c7d8e33648f44f355959faf77321eb0dd&"
+          ]
+        },
+        {
+          "triggers": [
+            "roast me",
+            "roast",
+            "insult me"
+          ],
+          "responses": [
+            "{username}, you're so dense light bends around you",
+            "if brains were dynamite {username} wouldnt have enough to blow your nose",
+            "{username} you have the personality of a wet cardboard box",
+            "somewhere out there is a tree tirelessly producing oxygen for {username}. you owe it an apology",
+            "{username} you bring everyone so much joy... when you leave the room",
+            "i would roast you {username} but my mom said im not allowed to burn trash",
+            "{username} youre like a cloud. when you disappear its a beautiful day",
+            "if i had a dollar for every brain cell you have {username} id have one dollar",
+            "{username} youre proof that evolution can go in reverse",
+            "id agree with you {username} but then wed both be wrong",
+            "{username} you have the perfect face for radio",
+            "you're not stupid {username}, you just have bad luck when thinking",
+            "{username} i'd explain it to you but i left my crayons at home",
+            "you're the human equivalent of a participation trophy {username}",
+            "{username} you're about as useful as a screen door on a submarine",
+            "if laughter is the best medicine {username} your face must be curing the world",
+            "{username} you're like the first slice of bread. everyone touches you but nobody wants you",
+            "roses are red violets are blue {username} god made a mistake when he created you",
+            "{username} you're so fake even china denied making you",
+            "i'd challenge you to a battle of wits {username} but i see you came unarmed",
+            "{username} you have more issues than vogue magazine",
+            "your birth certificate is an apology letter from the condom factory {username}",
+            "{username} you're not the dumbest person alive but you better hope they don't die",
+            "mirrors can't talk and lucky for you {username} they can't laugh either",
+            "{username} you're the reason the gene pool needs a lifeguard"
+          ]
+        },
+        {
+          "triggers": [
+            "<@914916160041005096>"
+          ],
+          "responses": [
+            "this guy is a certified melon"
+          ]
+        },
+        {
+          "triggers": [
+            "<@914916160041005096>"
+          ],
+          "responses": [
+            "uhhhhh insert funny shit here"
+          ]
+        }
+      ]
+    },
+    "1290908274518003726": {
+      "blankPingResponses": [
+        "what",
+        "yes?",
+        "hm?",
+        "you called?",
+        "what do you want",
+        "yeah?",
+        "Fuck off ask chat gpt",
+        "https://media.discordapp.net/attachments/1054217153601085580/1171926578658291753/89rn6jhlqlv.gif?ex=6916f86d&is=6915a6ed&hm=450faaef69ce7f1243ffd6777642562ec6f7e62be117bd23751755838993bce0&"
+      ],
+      "replyPatterns": [
+        {
+          "triggers": [
+            "i love you",
+            "love you",
+            "ily",
+            "i luv you",
+            "luv you",
+            "i love you faggot"
+          ],
+          "responses": [
+            "i love you too",
+            "love you too",
+            "aww i love you too"
+          ]
+        },
+        {
+          "triggers": [
+            "stinky",
+            "smelly",
+            "you stink"
+          ],
+          "responses": [
+            "no youre stinky",
+            "no u",
+            "youre stinkier",
+            "takes one to know one"
+          ]
+        },
+        {
+          "triggers": [
+            "stupid",
+            "dumb",
+            "idiot"
+          ],
+          "responses": [
+            "no u",
+            "youre the stupid one",
+            "takes one to know one",
+            "no youre dumb"
+          ]
+        },
+        {
+          "triggers": [
+            "cute",
+            "adorable",
+            "precious"
+          ],
+          "responses": [
+            "no youre cute",
+            "aww thanks youre cute too",
+            "youre cuter"
+          ]
+        },
+        {
+          "triggers": [
+            "cool",
+            "awesome",
+            "amazing",
+            "great"
+          ],
+          "responses": [
+            "thanks youre cool too",
+            "no youre awesome",
+            "youre amazing"
+          ]
+        },
+        {
+          "triggers": [
+            "thank you",
+            "thanks",
+            "ty",
+            "thx"
+          ],
+          "responses": [
+            "youre welcome",
+            "no problem",
+            "anytime",
+            "happy to help"
+          ]
+        },
+        {
+          "triggers": [
+            "good bot",
+            "best bot"
+          ],
+          "responses": [
+            "thank you",
+            "youre too kind",
+            "aww thanks",
+            "youre the best"
+          ]
+        },
+        {
+          "triggers": [
+            "bad bot",
+            "worst bot"
+          ],
+          "responses": [
+            "sorry",
+            "ill try better",
+            "im doing my best",
+            "rude"
+          ]
+        },
+        {
+          "triggers": [
+            "hate you",
+            "i hate you"
+          ],
+          "responses": [
+            "oh",
+            "sorry",
+            "thats mean",
+            "i still love you"
+          ]
+        },
+        {
+          "triggers": [
+            "ugly"
+          ],
+          "responses": [
+            "no youre ugly",
+            "rude",
+            "takes one to know one"
+          ]
+        },
+        {
+          "triggers": [
+            "pretty",
+            "beautiful",
+            "handsome"
+          ],
+          "responses": [
+            "no youre pretty",
+            "aww thank you",
+            "youre prettier"
+          ]
+        },
+        {
+          "triggers": [
+            "jones"
+          ],
+          "responses": [
+            "hi jones"
+          ]
+        },
+        {
+          "triggers": [
+            "kaboom?",
+            "kaboom"
+          ],
+          "responses": [
+            "yes {username}, kaboom",
+            "i hope you explode"
+          ]
+        },
+        {
+          "triggers": [
+            "clanker"
+          ],
+          "responses": [
+            "im totally not a clanker"
+          ]
+        },
+        {
+          "triggers": [
+            "fuck you",
+            "fuck u",
+            "screw you"
+          ],
+          "responses": [
+            "no fuck you",
+            "fuck you too",
+            "rude",
+            "love you too",
+            "no u",
+            "thats not very nice"
+          ]
+        },
+        {
+          "triggers": [
+            "kill"
+          ],
+          "responses": [
+            "https://tenor.com/view/kill-steve-harvey-family-feud-yes-kill-gif-22934983",
+            "https://preview.redd.it/4t8j0xiuama61.jpg?width=640&crop=smart&auto=webp&s=1561d473a0796bac69677cd24cc6b387270b57e9",
+            "https://cdn.discordapp.com/attachments/1290908274518003729/1445841709412909299/KILLLLL_20251203131816.png?ex=6931d085&is=69307f05&hm=01c3e3a98a14bca3414f3ebf7bd12d142824ecca8ee1966c6516fa54a4ff545d&",
+            "https://cdn.discordapp.com/attachments/1398278885241524315/1445544203554652161/3ec4672a1c89a5c712584e51931ca5b1.png?ex=6930bb73&is=692f69f3&hm=a4ba84421fe56d702cbb6ee562925e1c7d8e33648f44f355959faf77321eb0dd&"
+          ]
+        },
+        {
+          "triggers": [
+            "roast me",
+            "roast",
+            "insult me"
+          ],
+          "responses": [
+            "{username}, you're so dense light bends around you",
+            "if brains were dynamite {username} wouldnt have enough to blow your nose",
+            "{username} you have the personality of a wet cardboard box",
+            "somewhere out there is a tree tirelessly producing oxygen for {username}. you owe it an apology",
+            "{username} you bring everyone so much joy... when you leave the room",
+            "i would roast you {username} but my mom said im not allowed to burn trash",
+            "{username} youre like a cloud. when you disappear its a beautiful day",
+            "if i had a dollar for every brain cell you have {username} id have one dollar",
+            "{username} youre proof that evolution can go in reverse",
+            "id agree with you {username} but then wed both be wrong",
+            "{username} you have the perfect face for radio",
+            "you're not stupid {username}, you just have bad luck when thinking",
+            "{username} i'd explain it to you but i left my crayons at home",
+            "you're the human equivalent of a participation trophy {username}",
+            "{username} you're about as useful as a screen door on a submarine",
+            "if laughter is the best medicine {username} your face must be curing the world",
+            "{username} you're like the first slice of bread. everyone touches you but nobody wants you",
+            "roses are red violets are blue {username} god made a mistake when he created you",
+            "{username} you're so fake even china denied making you",
+            "i'd challenge you to a battle of wits {username} but i see you came unarmed",
+            "{username} you have more issues than vogue magazine",
+            "your birth certificate is an apology letter from the condom factory {username}",
+            "{username} you're not the dumbest person alive but you better hope they don't die",
+            "mirrors can't talk and lucky for you {username} they can't laugh either",
+            "{username} you're the reason the gene pool needs a lifeguard"
+          ]
+        },
+        {
+          "triggers": [
+            "<@914916160041005096>"
+          ],
+          "responses": [
+            "this guy is a certified melon"
+          ]
+        },
+        {
+          "triggers": [
+            "<@914916160041005096>"
+          ],
+          "responses": [
+            "uhhhhh insert funny shit here"
+          ]
+        }
+      ]
+    }
+  }
+}
