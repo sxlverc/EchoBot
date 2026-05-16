@@ -1,142 +1,151 @@
-# Astro Bot 🤖🚀
+# EchoBot 🐾
 
-A Discord bot for the **Kitty Voyage** server, themed around a spacey train ride. Astro is your friendly bot companion that brings fun, utility, and organization to your Discord experience!
+A Discord bot for **The Floof Squad** server. Handles XP levelling, voice channels, link fixing, bump reminders, birthdays, games, logging, polls, suggestions, and more.
 
 ## Features
 
-### Core Features
-- **XP Leveling System** - Gain XP through messages and voice chat, level up and earn roles
-### **Music Player** - Play YouTube music in voice channels with queue management (uses play-dl for reliable YouTube access)
+- **XP & Levelling** — Earn XP from messages and voice chat, level up, and unlock roles
+- **Voice Master** — Dynamic voice channel creation and management
+- **Link Fixer** — Automatically replaces Twitter/X, TikTok, and Instagram links with better embeds
+- **Bump Reminder** — Automatic reminders for Disboard and Discadia bumps
+- **Birthdays** — Track and announce member birthdays
+- **Welcome Messages** — Custom embed welcome with GIF on member join
+- **Server Logging** — Message edits/deletes, role changes, VC activity, member events
+- **Starboard** — Highlight popular messages to a dedicated channel
+- **Reaction Roles** — Self-assignable roles via button panels
+- **Polls** — Timed interactive polls with vote tracking
+- **Suggestions** — Submit, track, and moderate server suggestions
+- **Games** — Battleship, Tic-Tac-Toe, Connect 4
+- **Reminders** — Personal reminders via DM
+- **Bot Responses** — Configurable auto-responses to keywords
+- **Data Cleanup** — Automated removal of stale data
 
-#### YouTube Cookies Setup
-To prevent "Sign in to confirm you're not a bot" errors, you need to provide YouTube cookies:
+## Commands
 
-1. Create a `cookies.txt` file in the bot's root directory
-2. Add your YouTube cookies in Netscape format (see `cookies.txt` for instructions)
-3. Restart the bot
+### XP & Levelling
+| Command | Description |
+|---|---|
+| `/rank` | View your XP rank and level progress |
+| `/leaderboard` | Server XP leaderboard |
+| `/xp` | Admin XP management (add/remove/reset) |
+| `/setlevelrole` | Assign a role to a level threshold |
+| `/configxp` | Configure XP rates, cooldowns, excluded channels |
 
-**Without cookies, YouTube may block music requests.**
-- **Bump Reminder** - Automatic reminders for Disboard bumps
-- **Voice Master** - Dynamic voice channel creation and management
-- **Games** - Play Battleship, Tic-Tac-Toe, and Connect 4
-- **Server Logging** - Tracks message logs, server logs, role logs, and VC logs
-- **Data Cleanup** - Automated cleanup of old data
-- **Welcome Messages** - Custom embed welcomes with user pings
+### Fun
+| Command | Description |
+|---|---|
+| `/brick` | Brick someone (animated GIF) |
+| `/hump` | Hump command (animated GIF) |
+| `/poll` | Create a timed poll with up to 4 choices |
+| `/quoteit` | Turn a message into a styled quote image |
+| `/topic` | Generate a random conversation starter |
+| `/tell` | Send an anonymous message to a user |
+| `/time` | Show the current time in US timezones |
+| `/timestamp` | Generate a Discord timestamp for any date/time |
 
-### Commands
-- `/play <url>` - Play music from YouTube URLs (supports videos and playlist links)
-- `/skip` - Skip the current song
-- `/pause` - Pause the current song
-- `/resume` - Resume a paused song
-- `/stop` - Stop music and clear the queue
-- `/queue` - Show the current music queue
-- `/brick` - Brick someone (fun interaction)
-- `/hump` - Hump command (fun interaction)
-- `/poll` - Create interactive polls
-- `/quoteit` - Quote messages
-- `/reactionrole` - Set up reaction roles
-- `/rules` - Manage server rules with embeds
-- `/tell` - Send anonymous messages
-- `/topic` - Generate conversation starters
+### Suggestions
+| Command | Description |
+|---|---|
+| `/suggest` | Submit a suggestion |
+| `/suggestions` | Browse all suggestions |
+| `/suggestion-result` | Mark a suggestion as accepted/rejected/implemented |
 
+### Voice
+| Command | Description |
+|---|---|
+| `/voicemaster` | Manage your dynamic voice channel |
+| `/configvoicemaster` | Configure the join-to-create channel |
 
-## PM2 Process Management
+### Server Management
+| Command | Description |
+|---|---|
+| `/reactionrole` | Create and manage reaction role panels |
+| `/starboard` | Configure the starboard channel and threshold |
+| `/logger` | Configure server logging channels and events |
+| `/remind` | Set a personal reminder |
+| `/message` | Send or manage embedded messages |
+| `/responses` | Configure auto-response triggers |
+| `/configpresence` | Set bot status and rotating activities |
+| `/configwelcome` | Set the welcome GIF and channel |
 
-AstroBot is configured for PM2 process management, just like CackleCrewBot.
+### Birthdays
+| Command | Description |
+|---|---|
+| `/setbirthday` | Set your birthday |
+| `/checkbirthdays` | View upcoming birthdays |
+| `/configbirthdays` | Configure the birthday announcement channel |
 
-### Basic PM2 Commands
-```bash
-# Start AstroBot
-pm2 start ecosystem.config.js
+### Link Fixer
+| Command | Description |
+|---|---|
+| `/configlinkfixer` | Enable/disable link fixing and embed suppression |
 
-# Stop AstroBot
-pm2 stop AstroBot
+Supported platforms: **Twitter/X**, **TikTok**, **Instagram** (posts and reels).
 
-# Restart AstroBot
-pm2 restart AstroBot
+### Bump Reminder
+| Command | Description |
+|---|---|
+| `/bumpreminder` | Manually trigger or configure bump reminders |
 
-# View logs
-pm2 logs AstroBot
-
-# Check status
-pm2 list
-```
-
-### PM2 Features
-- **Auto-restart** on crashes
-- **Memory monitoring** (restarts if >1GB usage)
-- **Log management** (logs saved to `./logs/` directory)
-- **Environment variable** loading from `.env`
+Supports **Disboard** and **Discadia**.
 
 ## Configuration
 
-### config.json Structure
+All server settings live in `config.json` keyed by guild ID. Key sections:
+
 ```json
 {
-  "channels": {
-    "greeting": "welcome_channel_id",
-    "levelUp": "level_up_channel_id",
-    "vcLogs": "voice_logs_channel_id",
-    "serverLogs": "server_logs_channel_id",
-    "roleLogs": "role_logs_channel_id",
-    "messageLogs": "message_logs_channel_id"
-  },
-  "roles": {
-    "newcomer": "newcomer_role_id",
-    "levels": {
-      "2": "level_2_role_id",
-      "5": "level_5_role_id"
-    }
-  },
-  "features": {
-    "xp": {
-      "messageXP": 10,
-      "voiceXPPerMinute": 5
-    },
-    "welcome": {
-      "gifUrl": "welcome_gif_url"
+  "GUILD_ID": {
+    "channels": { "greeting": "...", "levelUp": "...", "bump": "...", "vcLogs": "...", "serverLogs": "...", "roleLogs": "...", "messageLogs": "...", "quotes": "..." },
+    "roles": { "newcomer": "...", "birthday": "...", "vcPing": "...", "levels": { "2": "...", "5": "...", "10": "..." } },
+    "features": {
+      "xp": { "enabled": true, "messageXP": 10, "voiceXPPerMinute": 5, "xpPerLevel": 100 },
+      "voicemaster": { "enabled": true, "joinToCreateChannel": "..." },
+      "welcome": { "enabled": true, "gifUrl": "..." },
+      "linkFixer": { "enabled": true, "suppressEmbeds": true },
+      "birthdays": { "enabled": true },
+      "bumpReminder": { "enabled": true, "disboard": true, "discadia": true },
+      "serverLogger": { "enabled": true },
+      "suggestions": { "requireRecentActivity": false }
     }
   }
 }
 ```
 
-### Environment Variables
-- `DISCORD_TOKEN` - Your bot's Discord token
-- `CLIENT_ID` - Your bot's client ID
-- `GUILD_ID` - Your Discord server's ID
+## Environment Variables
 
-## Bot Permissions
+Create a `.env` file in the project root (never commit this file):
 
-The bot requires the following permissions:
-- Read Messages
-- Send Messages
-- Embed Links
-- Read Message History
-- Use Slash Commands
-- Manage Roles (for reaction roles and leveling)
-- Manage Channels (for voice master)
-- View Audit Log (for logging)
-- Connect/Speak (for voice features)
+| Variable | Description |
+|---|---|
+| `DISCORD_TOKEN` | Bot token from Discord Developer Portal |
+| `CLIENT_ID` | Bot's application/client ID |
+| `GUILD_ID` | The Floof Squad server ID |
 
-## Customization
+## Setup
 
-### Welcome Messages
-Edit the `gifUrl` in `config.json` to change the welcome embed image.
+```bash
+npm install
+node deploy-commands.js   # register slash commands
+pm2 start ecosystem.config.js
+```
 
-### XP System
-Adjust XP rates and level requirements in the `features.xp` section of `config.json`.
+## PM2
 
-### Logging
-Configure which events are logged by modifying the channel IDs in `config.json`.
+```bash
+pm2 start ecosystem.config.js  # start
+pm2 stop EchoBot-FloofSquad    # stop
+pm2 restart EchoBot-FloofSquad # restart
+pm2 logs EchoBot-FloofSquad    # view logs
+pm2 list                       # status
+```
 
-## Troubleshooting
+Logs are saved to `./logs/`. Auto-restarts on crash, restarts if memory exceeds 1 GB.
 
-### Music Bot Issues
-- **"Sign in to confirm you're not a bot"**: Add YouTube cookies to `cookies.txt`
-- **"Please provide a valid YouTube URL"**: Make sure the URL is a direct YouTube video or playlist link
-- **No audio plays**: Check bot permissions in voice channel (Connect + Speak)
-- **Bot doesn't join voice channel**: Ensure you're in a voice channel when using music commands
+## Permissions Required
+
+`Send Messages` · `Embed Links` · `Read Message History` · `Use Slash Commands` · `Manage Roles` · `Manage Channels` · `View Audit Log` · `Add Reactions`
 
 ## License
 
-ISC License - Feel free to use and modify for your own server!
+ISC
